@@ -48,4 +48,6 @@ There is also a terminal window where it will log some info confirming it is wor
 ## TODO
 - Add functionality to submit files from diferent location but target an specific step/task.
 
+## IMPORTANT
+There is also an executable for this tool under "executable" folder, you can download and use it under windows.
 
