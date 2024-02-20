@@ -4,6 +4,7 @@ Tool used to copy files from local host to another host / server within a local 
 ## Procedure
 Set the project root folder in the destination side (Server) and the local root folder. This folders should contain the same folder structure to work properly.
 ![](./doc_imgs/mainUI_setLocations.png)
+
 This step is only required once, the settings are stored under your user folder in your system.
 You can always use the Settings menu to reset the root folders.
 
@@ -16,6 +17,7 @@ Once you select both locations the "OK" enables.
 
 A pop up message will show up when "OK" button is pressed.
 ![](/doc_imgs/settings_confirmation.png)
+
 This action creates a config json file under your user.
 
 
@@ -31,7 +33,7 @@ If files or folder comes from a diferent path than the one defined in first step
 ![](/doc_imgs/red_warning1.png)
 
 
-if you continue adding files and there is at least one coming from your local root path then the submit button will be enabled but only this valid file will be processed.
+If you continue adding files and there is at least one coming from your local root path then the submit button will be enabled but only this valid file will be processed.
 ![](/doc_imgs/red_warning2.png)
 
 
