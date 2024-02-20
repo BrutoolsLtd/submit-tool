@@ -45,4 +45,7 @@ Depending of the file size it will take some time, once finished you should see 
 There is also a terminal window where it will log some info confirming it is working.
 ![](/doc_imgs/submit_files_log.png)
 
+## TODO
+- Add functionality to submit files from diferent location but target an specific step/task.
+
 
